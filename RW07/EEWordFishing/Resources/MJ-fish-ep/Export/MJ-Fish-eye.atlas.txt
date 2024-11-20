@@ -1,0 +1,41 @@
+
+MJ-Fish-eye.png
+size: 148,44
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+mj-fish-brE-bl
+  rotate: true
+  xy: 42, 2
+  size: 40, 35
+  orig: 40, 35
+  offset: 0, 0
+  index: -1
+mj-fish-brE2-bl
+  rotate: true
+  xy: 108, 2
+  size: 40, 15
+  orig: 50, 51
+  offset: 5, 5
+  index: -1
+mj-fish-e-bl
+  rotate: false
+  xy: 2, 3
+  size: 38, 39
+  orig: 42, 43
+  offset: 2, 2
+  index: -1
+mj-fish-e-gr
+  rotate: true
+  xy: 125, 11
+  size: 31, 19
+  orig: 35, 23
+  offset: 2, 2
+  index: -1
+mj-fish-e-p
+  rotate: true
+  xy: 79, 4
+  size: 38, 27
+  orig: 42, 31
+  offset: 2, 2
+  index: -1

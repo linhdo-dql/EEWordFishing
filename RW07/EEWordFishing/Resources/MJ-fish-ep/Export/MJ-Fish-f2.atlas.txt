@@ -1,0 +1,27 @@
+
+MJ-Fish-f2.png
+size: 132,72
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+mj-fish-f2-bl
+  rotate: false
+  xy: 2, 2
+  size: 41, 65
+  orig: 41, 65
+  offset: 0, 0
+  index: -1
+mj-fish-f2-gr
+  rotate: false
+  xy: 45, 2
+  size: 41, 65
+  orig: 41, 65
+  offset: 0, 0
+  index: -1
+mj-fish-f2-p
+  rotate: false
+  xy: 88, 2
+  size: 41, 65
+  orig: 41, 65
+  offset: 0, 0
+  index: -1

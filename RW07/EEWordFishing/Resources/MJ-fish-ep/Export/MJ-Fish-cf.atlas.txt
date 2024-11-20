@@ -1,0 +1,27 @@
+
+MJ-Fish-cf.png
+size: 344,144
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+mj-fish-cf-bl
+  rotate: false
+  xy: 116, 2
+  size: 111, 139
+  orig: 111, 139
+  offset: 0, 0
+  index: -1
+mj-fish-cf-gr
+  rotate: false
+  xy: 2, 2
+  size: 112, 139
+  orig: 112, 139
+  offset: 0, 0
+  index: -1
+mj-fish-cf-p
+  rotate: false
+  xy: 229, 2
+  size: 111, 139
+  orig: 111, 139
+  offset: 0, 0
+  index: -1
